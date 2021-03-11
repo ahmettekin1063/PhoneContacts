@@ -1,0 +1,1 @@
+data class Kisi(val telNo: Int?, val isim: String?)
